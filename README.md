@@ -13,4 +13,10 @@ Quill weave temporary website
   echo "chruby ruby-3.4.1" >> ~/.zshrc # run 'chruby' to see actual version
   gem install jekyll
   ```
+
+* To run the application
+  ```
+  bundle exec jekyll serve
+  ```
+
   
